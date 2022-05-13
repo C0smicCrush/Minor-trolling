@@ -1,7 +1,7 @@
 var settings = {
     // common elements such as name, handles, etc
     name: "Aatmodhee Goswami",
-    profile: "assets/images/me.png",
+    profile: "https://imgur.com/a/PNk7y3x",
     description: "Aspiring Human",
     email: "atomind2005@gmail.com",
     github: "C0smicCrush",

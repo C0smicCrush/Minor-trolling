@@ -55,7 +55,7 @@ var settings = {
 //            description: "Continued high school on accelerated learning course as a student within Polk State College in order to receive Associate of Arts degree upon high school graduation."
 //        },
         {
-            date: "2022 - Present",
+            date: "2022 - ",
             title: "CCO at Finned Ad Services",
             description: "Focused on creating more enriching and better customer-side experiences for Finned"
         }
